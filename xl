@@ -1,6 +1,6 @@
 {
-  "urls": [
-		{
+    "urls": [
+        {
 		"url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
 		"name": "高天21"
 		},
@@ -51,6 +51,6 @@
 		{
 		"url": "http://weixine.link:33/",
 		"name": "国内快线"
-		}
-	]
+		} 
+    ]
 }
