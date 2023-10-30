@@ -17,6 +17,22 @@
 		"name": "小盒酷玩VIP"
 		},
 		{
+		"url": "http://weixine.link:33/api.json",
+		"name": "阿里巴巴"
+		},
+		{
+		"url": "http://weixine.link:33/ali.json",
+		"name": "阿里无敌"
+		},
+		{
+		"url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt",
+		"name": "教育专线"
+		},
+		{
+		"url": "http://weixine.link:33/",
+		"name": "国内快线"
+		},
+		{
 		"url": "https://jihulab.com/ygbh1/box/-/raw/main/ys.json",
 		"name": "月光宝盒"
 		},
@@ -39,22 +55,6 @@
 		{
 		"url": "http://ftp6587948.host121.sanfengyun.cn/bd/drpy/dz1.json",
 		"name": "道长JS"
-		},
-		{
-		"url": "http://weixine.link:33/api.json",
-		"name": "阿里巴巴"
-		},
-		{
-		"url": "http://weixine.link:33/ali.json",
-		"name": "阿里无敌"
-		},
-		{
-		"url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt",
-		"name": "教育专线"
-		},
-		{
-		"url": "http://weixine.link:33/",
-		"name": "国内快线"
 		}
 	]
 }
