@@ -1,0 +1,14 @@
+{
+    "urls": [
+        {
+            "url": "clan://localhost/tvbox/moyu/moyu.json",
+            "name": "摸鱼本地"
+        },
+        {   "url":"clan://localhost/tvboxqy/ttkx/ttkx.json",
+            "name":"天天开心"
+        },
+        {   "url":"clan://localhost/drpy_dzlive/index.json",
+            "name":"道长"
+        }
+    ]
+}
