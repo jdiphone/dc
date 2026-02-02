@@ -1,6 +1,3 @@
-#hugging face
-vless://74aa92b4-1501-450c-a54e-e9ef5d7ee33c@jackhie-ygk.hf.space:443?encryption=none&security=tls&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#hf-xhttp
-
 #lunes
 vless://f1ac7caa-a325-420c-8090-7ededfca7590@node70.lunes.host:3213?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node70.lunes.host&fp=chrome&pbk=OINnQdpxHfpSstoZ9llvC5UiNmCaPtJLi7kJcWu0Zhk&sid=c8d1c140&type=tcp&headerType=none#lunes-vl-reality-vision
 hysteria2://f1ac7caa-a325-420c-8090-7ededfca7590@node70.lunes.host:3213?sni=www.bing.com&alpn=h3&insecure=1&allowInsecure=1#lunes-hy2
